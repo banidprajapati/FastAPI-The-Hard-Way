@@ -1,3 +1,6 @@
+Done using the tutorial:
+https://www.fastapitutorial.com/blog/fastapi-course/
+
 # FastAPI Blog Project
 
 A blog application built with FastAPI, SQLAlchemy, and PostgreSQL.
